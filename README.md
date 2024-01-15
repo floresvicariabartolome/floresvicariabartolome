@@ -1,3 +1,5 @@
+<h1 align="center">Hola 👋, Soy Bartolomé Flores Vicaria </h1>
+
 - 🧑🏻‍🎓 Informático con fuertes conocimientos en Ciencia de datos , Machine Learning y Inteligencia artificial comprometido con la innovación continua en el panorama actual para diseño, implementación, aplicación y mantenimiento de soluciones informáticas. 
 
 - 📚 Entusiasta del mundo de los datos, en especial proyectos de análisis de datos y desarrollo de soluciones de vanguardia, estoy preparado y motivado para enfrentar los desafíos más exigentes del mundo de la tecnología con disciplina y constancia para seguir con mi formación profesional. 
