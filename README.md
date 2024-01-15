@@ -6,7 +6,7 @@
  
 - 📒 Formado en tecnologías de la información y recién finalizado Bootcamp Big Data, Inteligencia Artificial & Machine Learning Full Stack Bootcamp adquiriendo conocimientos avanzados y habilidades en esta disciplina vanguardista.
 
-- 🔝 Experiencia con: #Análisis de datos | #Tableau | #SQL | #Tensorflow |#Python | #BigData | #GoogleCloud | #Tensorflow | #Keras | #ETL | #PySpark | #Scala | #R | #Git | #GoogleCollaboratory | #OpenCV | #Scrum | #DataScience | #MachineLearning | #Bigdata | #Keras | #DeepLearning |#MachineLearning | #NLP | #D3.js | #AprendizajeSupervisado | #Numpys | #LLM | #Pandas | #Scikit-Learn | #Jupyter | #VScode | #Hadoop | #Docker | #Spark | #Mongodb | # Desarrollo de software | # AWS 
+- 🔝 Experiencia con: #Análisis de datos | #Tableau | #PowerBI | #LookerStudio | #SQL | #Tensorflow |#Python | #BigData | #GoogleCloud | #Tensorflow | #Keras | #ETL | #PySpark | #Scala | #R | #Git | #GoogleCollaboratory | #OpenCV | #Scrum | #DataScience | #MachineLearning | #Bigdata | #Keras | #DeepLearning |#MachineLearning | #NLP | #D3.js | #AprendizajeSupervisado | #Numpys | #LLM | #Pandas | #Scikit-Learn | #Jupyter | #VScode | #Hadoop | #Docker | #Spark | #Mongodb | # Desarrollo de software | # AWS 
 
 - 📝 Habilidades comunicativas, resolución de problemas, gestión de proyectos, liderazgo, habilidades críticas, autocrítica, proactivo, formación continua, gestión de equipos, empático, escucha activa , multidisciplinar.
 
