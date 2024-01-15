@@ -14,7 +14,7 @@
 
 
 - 📩 Mail    : floresvicaria.bartolome@gmail.com
-- 📁 Github  : https://github.com/floresvicariabartolome
+
 - 🔧 Linkedin: www.linkedin.com/in/bartolomé-flores-vicaria
 
 
