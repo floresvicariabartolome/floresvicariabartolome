@@ -10,6 +10,9 @@
 
 - 📝 Habilidades comunicativas, resolución de problemas, gestión de proyectos, liderazgo, habilidades críticas, autocrítica, proactivo, formación continua, gestión de equipos, empático, escucha activa , multidisciplinar.
 
+- 🌱 Actualmente estoy aprendiendo Análisis de datos , Visualización de datos , Big Data
+
+
 - 📩 Mail    : floresvicaria.bartolome@gmail.com
 - 📁 Github  : https://github.com/floresvicariabartolome
 - 🔧 Linkedin: www.linkedin.com/in/bartolomé-flores-vicaria
